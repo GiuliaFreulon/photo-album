@@ -1,0 +1,52 @@
+.album-page {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+.album-page h2 {
+  color: #bc6526;
+}
+
+.album-page h3 {
+  color: #ccc;
+}
+
+.album-page img {
+  max-width: 500px;
+  max-height: 500px;
+  object-fit: cover;
+  border: 4px solid #fff;
+}
+
+.description {
+  color: #fff;
+}
+
+.comment-form {
+  width: 500px;
+  padding: 2rem 0;
+}
+
+.comments-container {
+  width: 500px;
+}
+
+.comment {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+}
+
+.comment-name {
+  padding-bottom: 0.3rem;
+  font-weight: bold;
+  color: #bc6526;
+}
+
+.comment-text {
+  color: #ccc;
+}

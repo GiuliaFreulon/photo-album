@@ -1,0 +1,27 @@
+.add-album-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+.add-album-page h2 {
+  color: #bc6526;
+  padding: 2rem 0 1rem;
+  text-align: center;
+}
+
+.add-album-page .btn {
+  margin: 0 auto;
+}
+
+.add-album-page form {
+  max-width: 500px;
+}
+
+.add-album-page p {
+  font-weight: bold;
+  color: #ccc;
+  margin-bottom: 0.4rem;
+}
