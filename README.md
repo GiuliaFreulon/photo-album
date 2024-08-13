@@ -38,7 +38,7 @@ To view this project locally, follow these steps:
    cd ../frontend
    npm install
 4. Go to the file named .env in the backend directory
-5. Replacing <username> and <password> with your MongoDB credentials:
+5. Replace <username> and <password> with your MongoDB credentials:
    ```plaintext
    DBUSER=<username>
    DBPASS=<password>
